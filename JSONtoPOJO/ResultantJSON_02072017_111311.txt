@@ -1,1 +1,0 @@
-{"name":"Arnab","address":{"buildingno":"B-2","street1":"Narkelbagan","street2":"Garia","city":"Kolkata","postalcode":"700084","province":"West Bengal"},"age":21,"skills":["Selenium","Java","VBScript"]}
