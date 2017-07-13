@@ -1,0 +1,40 @@
+11:49:55 PM - Getting the test cases from the Run Manager
+11:49:57 PM - Initialize report...
+11:49:57 PM - Starting execution of TestCase1
+11:49:57 PM - Copying file : D:\Benchmark 1–French.pdf
+11:49:57 PM - Copying file : D:\Benchmark 1–French_New.pdf
+11:49:57 PM - Extracting pages from file : D:\Benchmark 1–French.pdf
+11:49:58 PM - Load the file using PDFBox
+11:50:00 PM - Extracted image for page 1
+11:50:01 PM - Extracted image for page 2
+11:50:01 PM - Extracted image for page 3
+11:50:01 PM - Extracted image for page 4
+11:50:01 PM - Extracting pages from file : D:\Benchmark 1–French.pdf
+11:50:01 PM - Load the file using PDFBox
+11:50:02 PM - Extracted image for page 1
+11:50:02 PM - Extracted image for page 2
+11:50:02 PM - Extracted image for page 3
+11:50:02 PM - Extracted image for page 4
+11:50:03 PM - Extracted image for page 5
+11:50:03 PM - Extracted image for page 6
+11:50:03 PM - Extracted image for page 7
+11:50:11 PM - Starting execution of TestCase2
+11:50:11 PM - Copying file : D:\Benchmark 1–French_New.pdf
+11:50:11 PM - Copying file : D:\Benchmark 1–French.pdf
+11:50:11 PM - Extracting pages from file : D:\Benchmark 1–French_New.pdf
+11:50:11 PM - Load the file using PDFBox
+11:50:12 PM - Extracted image for page 1
+11:50:12 PM - Extracted image for page 2
+11:50:12 PM - Extracted image for page 3
+11:50:13 PM - Extracted image for page 4
+11:50:13 PM - Extracted image for page 5
+11:50:13 PM - Extracted image for page 6
+11:50:13 PM - Extracted image for page 7
+11:50:15 PM - Extracting pages from file : D:\Benchmark 1–French_New.pdf
+11:50:15 PM - Load the file using PDFBox
+11:50:15 PM - Extracted image for page 1
+11:50:15 PM - Extracted image for page 2
+11:50:15 PM - Extracted image for page 3
+11:50:15 PM - Extracted image for page 4
+11:50:16 PM - Starting execution of TestCase3
+11:50:16 PM - Copying file : D:\JavaProjects\PDFComparison\src\InputFiles\CIMTA Booklet.pdf
